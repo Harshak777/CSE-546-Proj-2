@@ -15,20 +15,21 @@ We will introduce a smart classroom assistant for educators on our cloud app. Th
 3. Harshak Krishnaa Keerthipati
 
 #### Code Structure
-.
-├── Dockerfile
-├── Readme.md
-├── encoding
-├── handler.py
-├── mapping
-├── requirements.txt
-├── student_data.json
-└── workload.py
+. \
+├── Dockerfile \
+├── Readme.md \
+├── encoding \
+├── handler.py \
+├── mapping \
+├── requirements.txt \
+├── student_data.json \
+└── workload.py \
 
 
 ##### AWS Resources
 
 - AWS Credentials - N/A.
 
-INPUT_BUCKET = 'input-video-bucket-cloud'
-OUTPUT_BUCKET = 'output-video-bucket-cloud'	
+##### S3 Buckets
+INPUT_BUCKET = 'input-video-bucket-cloud' \
+OUTPUT_BUCKET = 'output-video-bucket-cloud'	 \
