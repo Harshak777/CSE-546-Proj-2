@@ -23,7 +23,7 @@ We will introduce a smart classroom assistant for educators on our cloud app. Th
 ├── mapping \
 ├── requirements.txt \
 ├── student_data.json \
-└── workload.py \
+└── workload.py 
 
 
 ##### AWS Resources
@@ -32,4 +32,4 @@ We will introduce a smart classroom assistant for educators on our cloud app. Th
 
 ##### S3 Buckets
 INPUT_BUCKET = 'input-video-bucket-cloud' \
-OUTPUT_BUCKET = 'output-video-bucket-cloud'	 \
+OUTPUT_BUCKET = 'output-video-bucket-cloud'	 
